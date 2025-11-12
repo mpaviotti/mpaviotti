@@ -4,11 +4,11 @@
 ---
 
 I’m currently:
-- 🔭 Doing research on **categorical semantics of programming languages**, exploring how **mathematics** and **logic** can model computation.  
+- 🔭 Doing research on **semantics of programming languages**, **mathematics** and **logic** for computation. 
 - 🌱 Teaching **theory and practice of concurrency**, **quantum computing**, and **programming languages**.  
 - 💻 Developing **[Markix](https://github.com/mpaviotti/Markix)** — a hobby **operating system project** built from scratch in C and x86 assembly, for exploring low-level design and kernel architecture.  
-- 👯 Looking to collaborate on research and tools connecting **category theory**, **semantics**, and **computation**.  
-- 🤔 Looking for help with better **formalization tools** for **quantum semantics** and **process calculi**.  
+- 👯 Looking to collaborate on research connecting **category theory**, **semantics**, and **computation**.  
+- 🤔 Looking for help with doing **OS development** and connections with **formal semantics**
 - 💬 Ask me about **denotational semantics**, **lambda calculus**, **monads**, or how interrupts and schedulers actually work at the hardware level.  
 - 📫 How to reach me: [marco.paviotti@gmail.com](mailto:marco.paviotti@gmail.com)  
 - ⚡ Fun fact: I switch between **proof assistants** and **assembly debuggers** with equal joy
