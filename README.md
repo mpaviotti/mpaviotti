@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Marco Paviotti
-
-🎓 I'm a lecturer at University of Kent
+🎓 Hi, I'm Marco, I'm a lecturer at University of Kent
 ---
 
 I’m currently:
