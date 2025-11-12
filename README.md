@@ -4,7 +4,9 @@
 I’m currently:
 - 🔭 Doing research on **semantics of programming languages**, **mathematics** and **logic** for computation. 
 - 🌱 Teaching **theory and practice of concurrency**, **quantum computing**, and **programming languages**.  
-- 💻 Developing **[Markix](https://github.com/mpaviotti/Markix)** — a hobby **operating system project** built from scratch in C and x86 assembly, for exploring low-level design and kernel architecture.  
+- 💻 Developing research and hobby projects such as:
+  - 🌀 [**rec-schemes**](https://github.com/mpaviotti/rec-schemes): a Haskell library for **recursion schemes**, enabling elegant and compositional approaches to recursion and program structure.  
+  - ⚙️ [**Markix**](https://github.com/mpaviotti/Markix): a minimalist **operating system** written from scratch in C and x86 assembly, used to explore low-level architecture, bootloaders, interrupts, and schedulers.  
 - 👯 Looking to collaborate on research connecting **category theory**, **semantics**, and **computation**.  
 - 🤔 Looking for help with doing **OS development** and connections with **formal semantics**
 - 💬 Ask me about **denotational semantics**, **lambda calculus**, **monads**, or how interrupts and schedulers actually work at the hardware level.  
@@ -14,10 +16,15 @@ I’m currently:
 
 ### 🧩 Featured Project: Markix OS
 
-[![Markix](https://github-readme-stats.vercel.app/api/pin/?username=mpaviotti&repo=Markix&theme=dracula)](https://github.com/mpaviotti/Markix)
+### 🌀 [rec-schemes](https://github.com/mpaviotti/rec-schemes)
+A Haskell library implementing **recursion schemes**, providing elegant combinators for expressing recursive algorithms compositionally.  
+Inspired by category theory, this project explores how **functors**, **algebras**, and **coalgebras** capture recursion in a principled way.
 
-Markix is a **minimal, modular operating system** built entirely from scratch.  
-It walks through every layer — **bootloader**, **interrupts**, **scheduler**, **paging**, and **file systems** — to illustrate OS design from first principles.
+### ⚙️ [Markix](https://github.com/mpaviotti/Markix)
+A minimalist **operating system** written in C and x86 assembly.  
+Markix boots from scratch, sets up the **GDT**, **interrupts**, and a **round-robin scheduler**, showing the structure of an OS from the ground up.  
+Aimed at educational and experimental exploration of **protected mode**, **multitasking**, and **low-level OS internals**.
+
 
 ---
 
