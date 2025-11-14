@@ -25,6 +25,8 @@ A minimalist **operating system** written in C and x86 assembly.
 Markix boots from scratch, sets up the **GDT**, **interrupts**, and a **round-robin scheduler**, showing the structure of an OS from the ground up.  
 Aimed at educational and experimental exploration of **protected mode**, **multitasking**, and **low-level OS internals**.
 
+### ⚙️ [OSDev Notes](https://github.com/mpaviotti/osdev-notes)
+A TeX written notes to write an Intel x86 operating system from scratch written in C and x86 assembly.  
 
 ---
 
